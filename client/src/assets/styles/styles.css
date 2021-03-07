@@ -1,0 +1,43 @@
+.auth-bg-section {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #6e00ff;
+  background-image: url(../images/login-background.jpg);
+}
+
+.auth-form-section {
+  width: 100%;
+  max-width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.auth-form-section .auth-form {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e9ecf1;
+  margin-top: 33px;
+  margin-bottom: 28px;
+}
+
+.btn-facebook {
+  color: #ffffff;
+  background-color: #3b5998;
+  border-color: #3b5998;
+  font-size: 16px;
+  padding: 12px;
+  line-height: 1;
+}
+
+.btn-google {
+  color: #ffffff;
+  background-color: #dd4b39;
+  border-color: #3b5998;
+  font-size: 16px;
+  padding: 12px;
+  line-height: 1;
+}
+
+.container {
+  margin-top: 70px !important;
+}
